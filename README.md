@@ -1,2 +1,2 @@
 # projeto-babel
-Testes com larave
+Testes com laravel
